@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AnnuityCalculator</string>
+    <string name="credit_sum_tv">Сумма кредита(руб): </string>
+    <string name="credit_period_tv">Период(мес): </string>
+    <string name="credit_per_rate_tv">Cтавка(%): </string>
+    <string name="monthly_pay_tv">Месячный платеж по кредиту составит: </string>
+    <string name="calculate_btn">Рассчитать</string>
+    <string name="overpay_tv">Сумма переплат составляет: </string>
+    <string name="mon_per_rate_tv">Месячная процентная ставка: </string>
+    <string name="btn_build">Построить график</string>
+    <string name="common_credit_sum_tv">Общая сумма вашего кредита составляет:</string>
+    <string name="сom_pay_tv">Платеж в счет основного долга(общ.сум): </string>
+    <string name="settings">Настройки</string>
+    <string name="m_num">1 Мес.</string>
+    <string name="m_pay">2100</string>
+    <string name="month">Месяц</string>
+    <string name="m_pay_tv">Ежемесячно:</string>
+    <string name="m_per">Проценты:</string>
+    <string name="m_bal">Остаток(о.д)</string>
+    <string name="m_com_pay">Платеж:</string>
+    <string name="tv_info">Ииформация о текущих выплатах:</string>
+</resources>
